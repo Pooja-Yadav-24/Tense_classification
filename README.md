@@ -52,5 +52,6 @@ Deployment: Develop an application or API for real-world usage of the tense clas
 This project aims to leverage NLP techniques to classify sentences into past, present, or future tenses effectively. By addressing the challenges and employing advanced models like BERT, the project seeks to improve understanding and processing of tense in natural language.
 
 10. References:
-10.1 Koroteev, Mikhail. 2021. "BERT: A Review of Applications in Natural Language Processing and Understanding". Retrieved August 31 from https://www.researchgate.net/publication/350287107_BERT_A_Review_of_Applications_in_Natural_Language_Processing_and_Understanding
-10.2 
+10.1 Mikhail Koroteev. 2021. "BERT: A Review of Applications in Natural Language Processing and Understanding". Retrieved August 31 from https://www.researchgate.net/publication/350287107_BERT_A_Review_of_Applications_in_Natural_Language_Processing_and_Understanding
+10.2 Ashwin Karthik Ambalavanan, Murthy V. Devarakonda. 2020. "Using the contextual language model BERT for multi-criteria classification of scientific articles". Retrieved August 31 from https://www.sciencedirect.com/science/article/pii/S1532046420302069
+10.3 Yichao Wu, Zhengyu Jin, Chenxi Shi, Penghao Liang. 2024. "Research on the application of deep learning-based BERT model in sentiment analysis". Retrieved August 31 from https://www.researchgate.net/publication/381035351_Research_on_the_application_of_deep_learning-based_BERT_model_in_sentiment_analysis
