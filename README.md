@@ -51,4 +51,6 @@ Deployment: Develop an application or API for real-world usage of the tense clas
 9. Conclusion
 This project aims to leverage NLP techniques to classify sentences into past, present, or future tenses effectively. By addressing the challenges and employing advanced models like BERT, the project seeks to improve understanding and processing of tense in natural language.
 
-
+10. References:
+10.1 Koroteev, Mikhail. 2021. "BERT: A Review of Applications in Natural Language Processing and Understanding". Retrieved August 31 from https://www.researchgate.net/publication/350287107_BERT_A_Review_of_Applications_in_Natural_Language_Processing_and_Understanding
+10.2 
